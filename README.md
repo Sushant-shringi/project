@@ -377,12 +377,11 @@ A repository containing clean and optimized solutions for Data Structures & Algo
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sushant-shringi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Sushant-shringi&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sushant-shringi&show_icons=true&theme=tokyonight" />
 
 <br><br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-shringi&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sushant-shringi&layout=compact&theme=tokyonight" />
 </div>
 
 ---
