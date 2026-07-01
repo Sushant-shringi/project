@@ -103,11 +103,11 @@ I enjoy transforming raw data into meaningful insights while continuously learni
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=pandas"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=matplotlib"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
 
